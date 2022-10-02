@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is made with React. This project it's only for learning purposes. It's a Expenses list with a very nice interface.
 
 ## Available Scripts
 
